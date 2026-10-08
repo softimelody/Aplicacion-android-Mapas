@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Mapa2</string>
+    <string name="title_selector">Selecciona una opción</string>
+    <string name="btn_ver_mapa_actual">Ver Mapa Actual</string>
+    <string name="btn_ver_google_maps">Ver Google Maps</string>
+    <string name="title_google_maps">Google Maps</string>
+    <string name="default_marker_title">Punto de Prueba</string>
+    <string name="default_marker_snippet">Ubicación inicial por defecto</string>
+
+    <!-- Puntos de Interés -->
+    <string name="poi_mindfit_title">Gimnasio MindFit</string>
+    <string name="poi_mindfit_snippet">Serafín Zamora 127, piso 2, La Florida</string>
+    <string name="poi_mall_title">Mallplaza Vespucio</string>
+    <string name="poi_mall_snippet">Av. Vicuña Mackenna 7110, La Florida</string>
+</resources>
